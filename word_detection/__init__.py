@@ -3,7 +3,8 @@
 
         extract_words(rate, data)
     Splits data to multiple parts each representing one word
-    input: sampling rate and samples
+    input: sampling rate and samples, hint is expected number of words,
+           but function can return more if it's unsure, 0 means no hint
     output: rate, list of parts, each part is word sample
 """
 
@@ -16,19 +17,9 @@ from word_extractor import WordExtractor
 __author__ = "Marko Bakovic (delta003)"
 
 
-def extract_words(rate, data):
+def extract_words(rate, data, hint = 0):
     # use first 100ms to set noise threshold
     samples = rate / 10  # number of samples in 100ms
     extractor = WordExtractor(data[:samples])
-    print 'Extracting words...'
-    words = extractor.detect_words(rate, data[samples:])
-    print 'Done.'
+    words = extractor.detect_words(rate, data[samples:], hint)
     return rate, words
-
-
-if __name__ == '__main__':
-    rate, data = wavfile.read("../wav/hard0.wav")
-    rate, words = extract_words(rate, data)
-    for i in range(0, len(words)):
-        filename = 'output/word' + str(i) + '.wav'
-        wavfile.write(filename, rate, numpy.asarray(words[i]))
