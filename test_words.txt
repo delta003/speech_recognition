@@ -1,0 +1,17 @@
+Serbian words used for testing:
+
+broj
+boj
+stoj
+svoj
+tvoj
+kosa
+koza
+bosa
+veliko
+nekoliko
+koliko
+toliko
+razumem
+mislim
+postojim
