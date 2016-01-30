@@ -1,0 +1,314 @@
+{
+  "training" : [
+    {
+      "file" : "marko10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "kiki10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "jovan10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "bane10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    }
+  ],
+  "test" : [
+    {
+      "file" : "marko10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "igor10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "dusica10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "kiki20",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "kiki21",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "kiki22",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "dusica20",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "igor20",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "jovan20",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "koliko_101",
+      "expected_words_count" : 1,
+      "words" : [
+        "koliko"
+      ]
+    },
+    {
+      "file" : "koliko_104",
+      "expected_words_count" : 1,
+      "words" : [
+        "koliko"
+      ]
+    }
+  ],
+  "examples10" : [
+    {
+      "file" : "marko10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "sasa10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "marija10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "kiki10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "jovan10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "bane10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "dusica10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "igor10",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    }
+  ],
+  "examples20" : [
+    {
+      "file" : "kiki20",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "sasa20",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "marko20",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "kiki21",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "kiki22",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "dusica20",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "igor20",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    },
+    {
+      "file" : "jovan20",
+      "expected_words_count" : 15,
+      "words" : [
+        "broj", "boj", "stoj", "svoj", "tvoj",
+        "kosa", "koza", "bosa",
+        "veliko", "nekoliko", "koliko", "toliko",
+        "razumem", "mislim", "postojim"
+      ]
+    }
+  ]
+}

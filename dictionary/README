@@ -1,0 +1,4 @@
+Dictionary for recognition
+Each folder represents one training set
+Folder name is word pronounced in training set
+Folder contains wav files for training
