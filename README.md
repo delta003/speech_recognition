@@ -2,4 +2,4 @@
 
 Speaker independent speech recognition library in Python using MFCC and HMM.
 
-Train your own dictionary easily and test recognition.
+Project is written for Speech recognition class at Faculty of Computing in Belgrade (RAF).
